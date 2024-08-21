@@ -1,6 +1,5 @@
 # FotoEditor
 
-<h1>FotoEditor</h1>
 <h2>Project Title: Image Editor App (Flask)</h2>
 
 <h3>Description:</h3>
