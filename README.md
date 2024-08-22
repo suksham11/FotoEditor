@@ -1,6 +1,6 @@
 # FotoEditor
 
-<h2>Project Title: Image Editor App (Flask)</h2>
+<h2>Image Editor App (Flask)</h2>
 
 <h3>Description:</h3>
 <p>web-based image editor using Flask, enabling users to upload and process images. 
@@ -8,6 +8,8 @@ Implemented image processing features such as changing image type,  applying fil
 Python libraries like PIL and OpenCV. Designed an intuitive user interface for easy navigation 
 and real-time preview of image edits. Ensured secure file handling and optimized image processing 
 for performance.</p>
+
+![image1](https://github.com/user-attachments/assets/d57ab775-3340-4da1-9453-239a6924b01e)
 
 <h3>Technologies Used:</h3>
 <ul>
@@ -43,9 +45,6 @@ cd FotoEditor</code></pre>
     <li><strong>Download:</strong> Click on the "Download" button to save the edited image to your device.</li>
 </ol>
 
-
-
-![image1](https://github.com/user-attachments/assets/d57ab775-3340-4da1-9453-239a6924b01e)
 
 
 <h3>Contributing</h3>
