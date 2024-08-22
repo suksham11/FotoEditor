@@ -3,8 +3,8 @@
 <h2>Project Title: Image Editor App (Flask)</h2>
 
 <h3>Description:</h3>
-<p>Developed a web-based image editor using Flask, enabling users to upload and process images. 
-Implemented image processing features such as cropping, resizing, and applying filters using 
+<p>web-based image editor using Flask, enabling users to upload and process images. 
+Implemented image processing features such as changing image type,  applying filters using 
 Python libraries like PIL and OpenCV. Designed an intuitive user interface for easy navigation 
 and real-time preview of image edits. Ensured secure file handling and optimized image processing 
 for performance.</p>
@@ -12,7 +12,7 @@ for performance.</p>
 <h3>Technologies Used:</h3>
 <ul>
     <li><strong>Backend:</strong> Flask, Python, PIL/OpenCV</li>
-    <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
+    <li><strong>Frontend:</strong> HTML</li>
 </ul>
 
 <h3>Installation</h3>
@@ -54,6 +54,6 @@ Pull requests are warmly welcomed.</p>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h3>Contact</h3>
-<p>For any questions or suggestions, feel free to reach out via <a href="mailto:youremail@example.com">your email</a> 
+<p>For any questions or suggestions, feel free to reach out via <a href="mailto:suksham8371@gmail.com">your email</a> 
 or create an issue in this repository.</p>
 
