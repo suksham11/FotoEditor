@@ -44,10 +44,9 @@ cd FotoEditor</code></pre>
 </ol>
 
 
-<h3>Screenshots</h3>
-<p>Below are some screenshots of the application:</p>
-<img src="editorinterface/image1.png" alt="Screenshot of the Image Editor Interface" width="600">
-<img src="editorinterface/image2.png" alt="Screenshot of Filter Applied" width="600">
+
+![image1](https://github.com/user-attachments/assets/d57ab775-3340-4da1-9453-239a6924b01e)
+![image2](https://github.com/user-attachments/assets/9ddf404a-7fb7-447a-b584-ebbab49a03b4)
 
 
 <h3>Contributing</h3>
