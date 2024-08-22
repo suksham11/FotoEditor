@@ -43,8 +43,12 @@ cd FotoEditor</code></pre>
     <li><strong>Download:</strong> Click on the "Download" button to save the edited image to your device.</li>
 </ol>
 
+
 <h3>Screenshots</h3>
-<p>(Include some screenshots of your application here to give users a visual overview.)</p>
+<p>Below are some screenshots of the application:</p>
+<img src="editorinterface/image1.png" alt="Screenshot of the Image Editor Interface" width="600">
+<img src="editorinterface/image2.png" alt="Screenshot of Filter Applied" width="600">
+
 
 <h3>Contributing</h3>
 <p>Contributions are welcome! If you’d like to contribute, please fork the repository and use a feature branch. 
